@@ -1,0 +1,7 @@
+{
+    "name": "bittarman/experiments",
+    "description": "An experiment in tagging",
+    "require": {
+        "php": ">=8.1"
+    }
+}
